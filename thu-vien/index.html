@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+
+	    <script>
+        (function (exports, d) {
+            var _isReady = false,
+                _event,
+                _fns = [];
+
+            function onReady(event) {
+                d.removeEventListener("DOMContentLoaded", onReady);
+                _isReady = true;
+                _event = event;
+                _fns.forEach(function (_fn) {
+                    var fn = _fn[0],
+                        context = _fn[1];
+                    fn.call(context || exports, window.jQuery);
+                });
+            }
+
+            function onReadyIe(event) {
+                if (d.readyState === "complete") {
+                    d.detachEvent("onreadystatechange", onReadyIe);
+                    _isReady = true;
+                    _event = event;
+                    _fns.forEach(function (_fn) {
+                        var fn = _fn[0],
+                            context = _fn[1];
+                        fn.call(context || exports, event);
+                    });
+                }
+            }
+
+            d.addEventListener && d.addEventListener("DOMContentLoaded", onReady) ||
+            d.attachEvent && d.attachEvent("onreadystatechange", onReadyIe);
+
+            function domReady(fn, context) {
+                if (_isReady) {
+                    fn.call(context, _event);
+                }
+
+                _fns.push([fn, context]);
+            }
+
+            exports.mesmerizeDomReady = domReady;
+        })(window, document);
+    </script>
+	<title>Blog &#8211; QUOC DUY BLOG</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="QUOC DUY BLOG &raquo; Feed" href="https://truongquocduy.github.io/mywordpress/feed/">
+<link rel="alternate" type="application/rss+xml" title="QUOC DUY BLOG &raquo; Comments Feed" href="https://truongquocduy.github.io/mywordpress/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://truongquocduy.github.io/mywordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="mesmerize-parent-css" href="https://truongquocduy.github.io/mywordpress/wp-content/themes/mesmerize/style.min.css?ver=1.0.15" type="text/css" media="all">
+<link rel="stylesheet" id="mesmerize-style-css" href="https://truongquocduy.github.io/mywordpress/wp-content/themes/empowerwp/style.min.css?ver=1.0.15" type="text/css" media="all">
+<style id="mesmerize-style-inline-css" type="text/css">img.logo.dark, img.custom-logo{width:auto;max-height:70px !important;}
+/** cached kirki style */@media screen and (min-width: 768px){.header-homepage{background-position:center top;}.header{background-position:center center;}}.header-homepage:not(.header-slide).color-overlay:before{background:#000000;}.header-homepage:not(.header-slide) .background-overlay,.header-homepage:not(.header-slide).color-overlay::before{opacity:0.6;}.header.color-overlay:before{background:#000000;}.header .background-overlay,.header.color-overlay::before{opacity:0.6;}.header-homepage .header-description-row{padding-top:16%;padding-bottom:12%;}.inner-header-description{padding-top:3%;padding-bottom:2%;}@media screen and (max-width:767px){.header-homepage .header-description-row{padding-top:16%;padding-bottom:12%;}}@media only screen and (min-width: 768px){.header-content .align-holder{width:85%!important;}.inner-header-description{text-align:center!important;}}</style>
+<link rel="stylesheet" id="mesmerize-style-bundle-css" href="https://truongquocduy.github.io/mywordpress/wp-content/themes/mesmerize/assets/css/theme.bundle.min.css?ver=1.0.15" type="text/css" media="all">
+<link rel="stylesheet" id="mesmerize-fonts-css" data-href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%7CMuli%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CPlayfair+Display%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;display=swap" type="text/css" media="all">
+<script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+    
+        (function () {
+            function setHeaderTopSpacing() {
+
+                setTimeout(function() {
+                  var headerTop = document.querySelector('.header-top');
+                  var headers = document.querySelectorAll('.header-wrapper .header,.header-wrapper .header-homepage');
+
+                  for (var i = 0; i < headers.length; i++) {
+                      var item = headers[i];
+                      item.style.paddingTop = headerTop.getBoundingClientRect().height + "px";
+                  }
+
+                    var languageSwitcher = document.querySelector('.mesmerize-language-switcher');
+
+                    if(languageSwitcher){
+                        languageSwitcher.style.top = "calc( " +  headerTop.getBoundingClientRect().height + "px + 1rem)" ;
+                    }
+                    
+                }, 100);
+
+             
+            }
+
+            window.addEventListener('resize', setHeaderTopSpacing);
+            window.mesmerizeSetHeaderTopSpacing = setHeaderTopSpacing
+            mesmerizeDomReady(setHeaderTopSpacing);
+        })();
+    
+    
+</script>
+<link rel="https://api.w.org/" href="https://truongquocduy.github.io/mywordpress/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://truongquocduy.github.io/mywordpress/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://truongquocduy.github.io/mywordpress/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.1">
+    <script type="text/javascript" data-name="async-styles">
+        (function () {
+            var links = document.querySelectorAll('link[data-href]');
+            for (var i = 0; i < links.length; i++) {
+                var item = links[i];
+                item.href = item.getAttribute('data-href')
+            }
+        })();
+    </script>
+	    <style id="page-content-custom-styles"></style>
+        <style data-name="background-content-colors">.mesmerize-inner-page .page-content,
+        .mesmerize-inner-page .content,
+        .mesmerize-front-page.mesmerize-content-padding .page-content {
+            background-color: #F5FAFD;
+        }</style>
+    </head>
+
+<body class="blog overlap-first-section mesmerize-inner-page">
+<style>.screen-reader-text[href="#page-content"]:focus {
+   background-color: #f1f1f1;
+   border-radius: 3px;
+   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+   clip: auto !important;
+   clip-path: none;
+   color: #21759b;
+
+}</style>
+<a class="skip-link screen-reader-text" href="#page-content">Skip to content</a>
+
+<div id="page-top" class="header-top">
+	        <div class="header-top-bar no-padding">
+            <div class="gridContainer">
+                <div class="header-top-bar-inner row middle-xs start-xs ">
+                        <div class="header-top-bar-area  col-xs area-left">
+                  <div class="top-bar-field" data-type="group" data-dynamic-mod="true">
+              <i class="fa fa-address-book"></i>
+              <span>TP.Bạc Liêu, Bạc Liêu, Việt Nam</span>
+          </div>
+                    <div class="top-bar-field" data-type="group" data-dynamic-mod="true">
+              <i class="fa fa-phone"></i>
+              <span>+84369082061</span>
+          </div>
+                    <div class="top-bar-field" data-type="group" data-dynamic-mod="true">
+              <i class="fa fa-envelope"></i>
+              <span>quocduy13579113@gmail.com</span>
+          </div>
+              </div>
+                            <div class="header-top-bar-area  col-xs-fit area-right">
+            <div data-type="group" data-dynamic-mod="true" class="top-bar-social-icons">
+                      <a target="_blank" class="social-icon" href="https://www.facebook.com/quocduy.truong.520/">
+                  <i class="fa fa-facebook-official"></i>
+              </a>
+              
+    </div>
+
+        </div>
+                    </div>
+            </div>
+        </div>
+        	<div class="navigation-bar boxed coloured-nav" data-sticky="0" data-sticky-mobile="1" data-sticky-to="top">
+    <div class="navigation-wrapper gridContainer">
+    	<div class="row basis-auto">
+	        <div class="logo_col col-xs col-sm-fit">
+	            <a class="text-logo" data-type="group" data-dynamic-mod="true" href="https://truongquocduy.github.io/mywordpress/">QUOC<span style="font-weight: 300;" class="span12"> DUY</span> BLOG</a>	        </div>
+	        <div class="main_menu_col col-xs">
+	            <div id="mainmenu_container" class="row"><ul id="main_menu" class="active-line-bottom main-menu dropdown-menu">
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-58"><a href="https://truongquocduy.github.io/mywordpress/">HomePage</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-63 current_page_item current_page_parent menu-item-65"><a href="https://truongquocduy.github.io/mywordpress/thu-vien/" aria-current="page">Blog</a></li>
+</ul></div>    <a href="#" data-component="offcanvas" data-target="#offcanvas-wrapper" data-direction="right" data-width="300px" data-push="false">
+        <div class="bubble"></div>
+        <i class="fa fa-bars"></i>
+    </a>
+    <div id="offcanvas-wrapper" class="hide force-hide  offcanvas-right">
+        <div class="offcanvas-top">
+            <div class="logo-holder">
+                <a class="text-logo" data-type="group" data-dynamic-mod="true" href="https://truongquocduy.github.io/mywordpress/">QUOC<span style="font-weight: 300;" class="span12"> DUY</span> BLOG</a>            </div>
+        </div>
+        <div id="offcanvas-menu" class="menu-primary-menu-container"><ul id="offcanvas_menu" class="offcanvas_menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-58"><a href="https://truongquocduy.github.io/mywordpress/">HomePage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-63 current_page_item current_page_parent menu-item-65"><a href="https://truongquocduy.github.io/mywordpress/thu-vien/" aria-current="page">Blog</a></li>
+</ul></div>
+            </div>
+    	        </div>
+	    </div>
+    </div>
+</div>
+</div>
+
+<div id="page" class="site">
+    <div class="header-wrapper">
+        <div class="header  color-overlay" style="; background-image:url(https://truongquocduy.github.io/mywordpress/thu-vien/&quot;&quot;); background-color:#6a73da" data-parallax-depth="20">
+            								    <div class="inner-header-description gridContainer">
+        <div class="row header-description-row">
+    <div class="col-xs col-xs-12">
+        <h1 class="hero-title">
+            Blog        </h1>
+                    <p class="header-subtitle">Just another WordPress site</p>
+            </div>
+        </div>
+    </div>
+        <script>
+		if (window.mesmerizeSetHeaderTopSpacing) {
+			window.mesmerizeSetHeaderTopSpacing();
+		}
+    </script>
+                        </div>
+    </div>
+
+    <div id="page-content" class="content blog-page">
+        <div class="gridContainer gridContainer content">
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-md-9">
+                    <div class="post-list row">
+                        <div class="post-list-item col-xs-12 space-bottom col-sm-12 col-md-12 sticky" data-masonry-width="col-md-12">
+    <div id="post-78" class="blog-post card  post-78 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-uncategorized">
+        <div class="post-content shadow-small  ">
+
+			<div class="post-thumbnail">
+   <a href="https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/" class="post-list-item-thumb ">
+      <img width="750" height="422" src="https://truongquocduy.github.io/mywordpress/wp-content/uploads/2021/09/ky-quan-the-gioi-1-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy">   </a>
+</div>
+
+            <div class="col-xs-12 col-padding col-padding-xs">
+
+				                <div class="over">
+
+                    <h3 class="post-title">
+                        <a href="https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/" rel="bookmark">
+							Top 7 kì quan thế giới và những sự thật thú vị                        </a>
+                    </h3>
+					<div class="post-meta small muted space-bottom-small">
+    <span class="date">September 15, 2021</span>
+</div>
+
+
+                    <div class="post-excerpt">
+						<p>Vẻ đẹp kỳ vĩ của các kỳ quan thiên nhiên thế giới cổ đại chắc chắn sẽ là một đề tài thú vị. Bạn có thể dành thời gian để chia sẻ với bé về các kỳ quan này trong những ngày cuối tuần hay khi con đang nghỉ học ở nhà và bạn đang làm việc từ xa để thực hiện giãn cách xã hội.</p>
+                    </div>
+
+                </div>
+<!-- /over -->
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="post-list-item col-xs-12 space-bottom col-sm-12 col-md-12 sticky" data-masonry-width="col-md-12">
+    <div id="post-76" class="blog-post card  post-76 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-uncategorized">
+        <div class="post-content shadow-small  ">
+
+			<div class="post-thumbnail">
+   <a href="https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/" class="post-list-item-thumb ">
+      <img width="1024" height="576" src="https://truongquocduy.github.io/mywordpress/wp-content/uploads/2021/09/Op.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy">   </a>
+</div>
+
+            <div class="col-xs-12 col-padding col-padding-xs">
+
+				                <div class="over">
+
+                    <h3 class="post-title">
+                        <a href="https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/" rel="bookmark">
+							Top nhân vật yêu thích nhất One Piece                        </a>
+                    </h3>
+					<div class="post-meta small muted space-bottom-small">
+    <span class="date">September 15, 2021</span>
+</div>
+
+
+                    <div class="post-excerpt">
+						<p> Cuối cùng top 20 nhân vật One Piece được yêu thích nhất toàn thế giới năm 2021 đã được công bố vào đêm qua, Luffy đứng đầu với hơn 1,6 triệu lượt bình chọn. </p>
+                    </div>
+
+                </div>
+<!-- /over -->
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<div class="post-list-item col-xs-12 space-bottom col-sm-12 col-md-6" data-masonry-width="col-sm-12.col-md-6">
+    <div id="post-73" class="blog-post card  post-73 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+        <div class="post-content shadow-small  ">
+
+			<div class="post-thumbnail">
+   <a href="https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/" class="post-list-item-thumb ">
+      <img width="945" height="530" src="https://truongquocduy.github.io/mywordpress/wp-content/uploads/2021/09/bai-hoc-tu-tam-quoc-dien-nghia.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy">   </a>
+</div>
+
+            <div class="col-xs-12 col-padding col-padding-xs">
+
+				                <div class="over">
+
+                    <h3 class="post-title">
+                        <a href="https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/" rel="bookmark">
+							Top 10 nhân vật được yêu thích nhất Tam Quốc                        </a>
+                    </h3>
+					<div class="post-meta small muted space-bottom-small">
+    <span class="date">September 15, 2021</span>
+</div>
+
+
+                    <div class="post-excerpt">
+						<p>ghĩa là tiểu thuyết lịch sử nổi tiếng của Trung Quốc và thế giới. Trong Tam quốc Diễn Nghĩa có rất nhiều nhân vật tài giỏi với nhiều tính cách, được nhiều người yêu thích. Hãy cùng Toplist điểm mặt Top 10 nhân vật được yêu thích nhất trong Tam Quốc Diễn Nghĩa nhé.</p>
+                    </div>
+
+                </div>
+<!-- /over -->
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+                    </div>
+                    <div class="navigation-c">
+                                            </div>
+                </div>
+                
+<div class="sidebar col-sm-4 col-md-3">
+        <div class="empower-sidebar-panel bg-color-white">
+        <div id="block-2" class="widget widget_block widget_search"><form role="search" method="get" action="https://truongquocduy.github.io/mywordpress/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search">
+<label for="wp-block-search__input-1" class="wp-block-search__label">Search</label><div class="wp-block-search__inside-wrapper">
+<input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="" required><button type="submit" class="wp-block-search__button ">Search</button>
+</div>
+</form></div>
+<div id="block-3" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2>Recent Posts</h2>
+<ul class="wp-block-latest-posts__list wp-block-latest-posts">
+<li><a href="https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/">Top 7 kì quan thế giới và những sự thật thú vị</a></li>
+<li><a href="https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/">Top nhân vật yêu thích nhất One Piece</a></li>
+<li><a href="https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/">Top 10 nhân vật được yêu thích nhất Tam Quốc</a></li>
+</ul>
+</div></div></div>
+<div id="block-4" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2>Recent Comments</h2>
+<div class="no-comments wp-block-latest-comments">No comments to show.</div>
+</div></div></div>
+<div id="block-5" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2>Archives</h2>
+<ul class=" wp-block-archives-list wp-block-archives">	<li><a href="https://truongquocduy.github.io/mywordpress/2021/09/">September 2021</a></li>
+</ul>
+</div></div></div>
+<div id="block-6" class="widget widget_block"><div class="wp-block-group"><div class="wp-block-group__inner-container">
+<h2>Categories</h2>
+<ul class="wp-block-categories-list wp-block-categories">	<li class="cat-item cat-item-1">
+<a href="https://truongquocduy.github.io/mywordpress/category/uncategorized/">Uncategorized</a>
+</li>
+</ul>
+</div></div></div>    </div>
+</div>
+            </div>
+        </div>
+    </div>
+
+<div class="footer footer-simple">
+    <div class="footer-content center-xs">
+        <div class="gridContainer">
+            <div class="row middle-xs footer-content-row">
+                <div class="footer-content-col col-xs-12">
+					<p class="copyright" data-type="group">&copy; 2021 QUOC DUY BLOG. Built using WordPress and <a rel="nofollow" href="#">EmpowerWP Theme</a>.</p>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	</div>
+<script type="text/javascript" defer src="https://truongquocduy.github.io/mywordpress/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" defer src="https://truongquocduy.github.io/mywordpress/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" defer src="https://truongquocduy.github.io/mywordpress/wp-content/themes/mesmerize/assets/js/theme.bundle.min.js?ver=1.0.15" id="mesmerize-theme-js"></script>
+<script type="text/javascript" defer src="https://truongquocduy.github.io/mywordpress/wp-includes/js/wp-embed.min.js?ver=5.8.1" id="wp-embed-js"></script>
+    <script>
+        /(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () {
+            var t, e = location.hash.substring(1);
+            /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus())
+        }, !1);
+    </script>
+	</body>
+</html>

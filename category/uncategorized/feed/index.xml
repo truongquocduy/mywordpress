@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 15 Sep 2021 08:07:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Top 7 kì quan thế giới và những sự thật thú vị</title>
+		<link>https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 08:07:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?p=78</guid>
+
+					<description><![CDATA[Vẻ đẹp kỳ vĩ của các kỳ quan thiên nhiên thế giới cổ đại chắc chắn sẽ là một đề tài thú vị. Bạn có thể dành thời gian để chia sẻ với bé về các kỳ quan này trong những ngày cuối tuần hay khi con đang nghỉ học ở nhà và bạn đang làm việc từ xa để thực hiện giãn cách xã hội.]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top nhân vật yêu thích nhất One Piece</title>
+		<link>https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 07:59:38 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?p=76</guid>
+
+					<description><![CDATA[ Cuối cùng top 20 nhân vật One Piece được yêu thích nhất toàn thế giới năm 2021 đã được công bố vào đêm qua, Luffy đứng đầu với hơn 1,6 triệu lượt bình chọn. ]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 10 nhân vật được yêu thích nhất Tam Quốc</title>
+		<link>https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 15 Sep 2021 07:50:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?p=73</guid>
+
+					<description><![CDATA[ghĩa là tiểu thuyết lịch sử nổi tiếng của Trung Quốc và thế giới. Trong Tam quốc Diễn Nghĩa có rất nhiều nhân vật tài giỏi với nhiều tính cách, được nhiều người yêu thích. Hãy cùng Toplist điểm mặt Top 10 nhân vật được yêu thích nhất trong Tam Quốc Diễn Nghĩa nhé.]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
