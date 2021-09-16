@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truongquocduy.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 15 Sep 2021 08:07:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Sep 2021 06:59:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,8 @@
 					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/top-7-ki-quan-the-gioi-va-nhung-su-that-thu-vi-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://truongquocduy.github.io/mywordpress/wp-content/uploads/2021/09/River-Flows-in-You.mp3" length="3355095" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Top nhân vật yêu thích nhất One Piece</title>
@@ -51,7 +52,8 @@
 					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/top-nhan-vat-yeu-thich-nhat-one-piece-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://truongquocduy.github.io/mywordpress/wp-content/uploads/2021/09/LuffyMokou.mp3" length="5938083" type="audio/mpeg" />
+
 			</item>
 		<item>
 		<title>Top 10 nhân vật được yêu thích nhất Tam Quốc</title>
@@ -68,7 +70,8 @@
 					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/top-10-nhan-vat-duoc-yeu-thich-nhat-tam-quoc-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		
+		<enclosure url="https://truongquocduy.github.io/mywordpress/wp-content/uploads/2021/09/Nhac-nen-Tam-Quoc-Dien-Nghia.mp3" length="3649338" type="audio/mpeg" />
+
 			</item>
 	</channel>
 </rss>
