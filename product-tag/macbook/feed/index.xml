@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Macbook &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/macbook/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 06:29:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>MacBook Pro 13&#8243; 2021 Touch Bar M1 512GB</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2021-touch-bar-m1-512gb/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2021-touch-bar-m1-512gb/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 03:07:06 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=236</guid>
+
+					<description><![CDATA[<ul>
+ 	<li data-info="Màn hình"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">13,3 ", 2560 x 1600 pixel, IPS, IPS LCD LED Backlit, True Tone</span></span></span></span></li>
+ 	<li data-info="CPU"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Apple M1</span></span></span></span></li>
+ 	<li data-info="RAM"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">8 GB, LPDDR4</span></span></span></span></li>
+ 	<li data-info="Ổ cứng"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SSD 256 GB</span></span></span></span></li>
+ 	<li data-info="Card đồ họa"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Apple M1</span></span></span></span></li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2021-touch-bar-m1-512gb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MacBook Pro 13&#8243; 2020 Touch Bar M1 256GB</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2020-touch-bar-m1-256gb/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2020-touch-bar-m1-256gb/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 02:07:37 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=120</guid>
+
+					<description><![CDATA[<ul>
+ 	<li data-info="Màn hình"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">13,3 ", 2560 x 1600 pixel, IPS, IPS LCD LED Backlit, True Tone</span></span></span></span></li>
+ 	<li data-info="CPU"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Apple M1</span></span></span></span></li>
+ 	<li data-info="RAM"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">8 GB, LPDDR4</span></span></span></span></li>
+ 	<li data-info="Ổ cứng"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SSD 256 GB</span></span></span></span></li>
+ 	<li data-info="Card đồ họa"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Apple M1</span></span></span></span></li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2020-touch-bar-m1-256gb/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xe đạp điện &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/xe-dap-dien/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 12:24:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Xe máy điện Vinfast Ludo</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/xe-may-dien-vinfast-ludo/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/xe-may-dien-vinfast-ludo/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 06:14:39 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=183</guid>
+
+					<description><![CDATA[<h4 class="BlockTitle__Wrapper-sc-qpz3fo-0 eHltcn">Thông Tin Chi Tiết</h4>
+<div class="content has-table">
+<table>
+<tbody>
+<tr>
+<td>Thương hiệu</td>
+<td>VINFAST</td>
+</tr>
+<tr>
+<td>Xuất xứ thương hiệu</td>
+<td>Việt Nam</td>
+</tr>
+<tr>
+<td>Xuất xứ</td>
+<td>Việt Nam</td>
+</tr>
+</tbody>
+</table>
+</div>]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/xe-may-dien-vinfast-ludo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

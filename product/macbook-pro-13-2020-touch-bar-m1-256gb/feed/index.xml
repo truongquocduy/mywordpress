@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: MacBook Pro 13&#8243; 2020 Touch Bar M1 256GB	</title>
+	<atom:link href="http://localhost/myproject/wordpress/product/macbook-pro-13-2020-touch-bar-m1-256gb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress/product/macbook-pro-13-2020-touch-bar-m1-256gb/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 06:29:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+</channel>
+</rss>

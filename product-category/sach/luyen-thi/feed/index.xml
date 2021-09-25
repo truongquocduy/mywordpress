@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Luyện thi &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/sach/luyen-thi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 25 Sep 2021 11:55:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>03 Sách ID ôn thi THPT quốc gia môn sinh học</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/03-sach-id-on-thi-thpt-quoc-gia-mon-sinh-hoc/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/03-sach-id-on-thi-thpt-quoc-gia-mon-sinh-hoc/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 06:32:31 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=191</guid>
+
+					<description><![CDATA[Bộ sách luyện thi THPT quốc gia 2022 Tự học môn Sinh học của Phan Khắc Nghệ là bản phát hành mới nhất, dành cho 2k4 luyện thi đại học. Cuốn sách là tài liệu ôn thi thpt quốc gia môn Sinh liệu quan trọng, hướng dẫn các bạn ôn thi đúng cách, thực hành đầy đủ các dạng từ bài tập trắc nghiệm môn Sinh từ cơ bản đến vận dụng và nâng cao trong đề thi thpt quốc gia 2022.]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/03-sach-id-on-thi-thpt-quoc-gia-mon-sinh-hoc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

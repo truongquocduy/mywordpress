@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>máy chiếu &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/may-chieu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 23 Sep 2021 06:03:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Máy Chiếu Mini YG-300 Smart LED Độ Phân Giải 1920×1080</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/may-chieu-mini-yg-300-smart-led-do-phan-giai-1920x1080/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/may-chieu-mini-yg-300-smart-led-do-phan-giai-1920x1080/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 06:03:30 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=181</guid>
+
+					<description><![CDATA[<h4 class="BlockTitle__Wrapper-sc-qpz3fo-0 eHltcn">Mô Tả Sản Phẩm</h4>
+<div class="content">
+<div class="ToggleContent__Wrapper-sc-1hm81e2-1 iRkmen">
+<div class="ToggleContent__View-sc-1hm81e2-0 jiiZx">
+<div>Máy chiếu mini YG300 Smart LED Độ phân giải: 320 x 240 pixel Độ phân giải hỗ trợ:1920 x 1080 pixel Độ sáng:400 – 600 lumens Tuổi thọ đèn Led: 30.000 giờMáy chiếu là thiết bị tuyệt vời để thưởng thức phim hoặc video. Với những tiến bộ của công nghệ, máy chiếu đã trở nên gọn nhẹ và hiệu quả hơn. Bạn không thể mang theo TV hoặc màn hình đi mọi nơi và xem một bộ phim trên điện thoại thông minh không thể đem đến trải nghiệm tốt nhất. Vì vậy, cách tốt nhất là sử dụng máy chiếu mini.
+
+</div>
+</div>
+</div>
+</div>]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/may-chieu-mini-yg-300-smart-led-do-phan-giai-1920x1080/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Asus &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/asus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 06:31:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Laptop ASUS TUF Gaming A15 FA506IU-AL127T</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/laptop-asus-tuf-gaming-a15-fa506iu-al127t/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/laptop-asus-tuf-gaming-a15-fa506iu-al127t/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 01:49:10 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=118</guid>
+
+					<description><![CDATA[<ul>
+ 	<li data-info="Màn hình"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">15,6 ", 1920 x 1080 Pixel, IPS, 144 Hz, 250 nits, IPS LCD LED Backlit, True Tone</span></span></li>
+ 	<li data-info="CPU"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Intel Core i5-10300H</span></span></li>
+ 	<li data-info="RAM"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">8 GB, DDR4, 2933 MHz</span></span></li>
+ 	<li data-info="Ổ cứng"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">SSD 512 GB</span></span></li>
+</ul>]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/laptop-asus-tuf-gaming-a15-fa506iu-al127t/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mô hình zoro &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/mo-hinh-zoro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 22 Sep 2021 02:54:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Mô hình Roronoa Zoro  – One Piece</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/mo-hinh-roronoa-zoro-one-piece/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/mo-hinh-roronoa-zoro-one-piece/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 02:48:18 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=128</guid>
+
+					<description><![CDATA[Kích thước 34cm.
+
+Nặng khoảng 3kg
+
+Phụ kiện gồm 4 đầu
+
+2 bộ thân, 1 dáng rút kiếm 1 dáng cầm kiếm 2 bên
+
+Có 5 bộ kiếm và bao kiếm
+
+Led đổi nhiều màu]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/mo-hinh-roronoa-zoro-one-piece/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

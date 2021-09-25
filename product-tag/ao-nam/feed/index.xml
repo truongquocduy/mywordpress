@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>áo nam &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/ao-nam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 25 Sep 2021 11:55:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Áo thun nam trơn cổ tròn thời trang Everest nhiều màu</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/ao-thun-nam-tron-co-tron-thoi-trang-everest-nhieu-mau/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/ao-thun-nam-tron-co-tron-thoi-trang-everest-nhieu-mau/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 06:37:08 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=208</guid>
+
+					<description><![CDATA[Chất liệu thun mềm mại co giãn tốt , thoáng mát Thiết kế thời trang phù hợp xu hướng hiện nay Kiểu dáng đa phong cách Đường may tinh tế sắc sảo Áo thun được thiết kế vể đẹp trẻ trung năng động nhưng không kém phần mạnh mẽ. Áo được thiết kế đẹp, chuẩn form, đường may sắc xảo, vải dày, mịn, thấm hút mồ hôi tạo sự thoải mái khi mặc! Dễ dàng phối trang phục , thích hợp đi chơi đi làm đi dạo phố]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/ao-thun-nam-tron-co-tron-thoi-trang-everest-nhieu-mau/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

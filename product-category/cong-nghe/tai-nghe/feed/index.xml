@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tai nghe &#8211; QUOC DUY BLOG</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/cong-nghe/tai-nghe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongquocduy.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 24 Sep 2021 02:58:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Tai Nghe Chụp Tai Sony MDR-ZX110AP &#8211; Hàng Chính Hãng</title>
+		<link>https://truongquocduy.github.io/mywordpress/product/tai-nghe-chup-tai-sony-mdr-zx110ap-hang-chinh-hang/</link>
+					<comments>https://truongquocduy.github.io/mywordpress/product/tai-nghe-chup-tai-sony-mdr-zx110ap-hang-chinh-hang/#respond</comments>
+		
+		<dc:creator><![CDATA[truongquocduy]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 03:25:11 +0000</pubDate>
+				<guid isPermaLink="false">https://truongquocduy.github.io/mywordpress/?post_type=product&#038;p=141</guid>
+
+					<description><![CDATA[<h4 class="BlockTitle__Wrapper-sc-qpz3fo-0 eHltcn">Mô Tả Sản Phẩm</h4>
+<div class="content">
+<div class="ToggleContent__Wrapper-sc-1hm81e2-1 iRkmen">
+<div class="ToggleContent__View-sc-1hm81e2-0 gFdUie">
+<div>Tích hợp micro tiện lợi Thiết kế gọn nhẹ Chất lượng âm thanh tốt Chuẩn kết nối 3.5mm</div>
+</div>
+</div>
+</div>]]></description>
+		
+					<wfw:commentRss>https://truongquocduy.github.io/mywordpress/product/tai-nghe-chup-tai-sony-mdr-zx110ap-hang-chinh-hang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
