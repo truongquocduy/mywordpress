@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; QUOC DUY BLOG &#8212; WordPress</title>
+	<title>Log In &lsaquo; QUDUYVNAM &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://truongquocduy.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.8.1" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://truongquocduy.github.io/mywordpress/">&larr; Go to QUOC DUY BLOG</a>		</p>
+			<a href="https://truongquocduy.github.io/mywordpress/">&larr; Go to QUDUYVNAM</a>		</p>
 			</div>
 	<script src="https://truongquocduy.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script src="https://truongquocduy.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -83,7 +83,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://truongquocduy.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"894c0c0137"};
+var userProfileL10n = {"user_id":"0","nonce":"8728c9e007"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
