@@ -53,6 +53,37 @@ img.emoji {
 	<link rel="stylesheet" id="wp-block-library-css" href="https://truongquocduy.github.io/mywordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="wc-blocks-vendors-style-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="wc-blocks-style-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="animate-css-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/salert//assets/backend/css/animate.css?ver=1.1.9" type="text/css" media="all">
+<link rel="stylesheet" id="salert-main-css-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/salert//assets/frontend/css/style.css?ver=5.8.1" type="text/css" media="all">
+<style id="salert-main-css-inline-css" type="text/css">#salertWrapper .popup_template{
+                        background-color:#fff;
+                        
+                   }
+                   #salertWrapper .popup_position{
+                        width:350px;
+                   }
+
+                  
+                  #salertWrapper .popup_position .salert-content-wrap{
+                    color:#000;
+                    font-size:14px;
+                    text-transform:none;
+                  }
+                  #salertWrapper .popup_position img{
+                    float: ;
+                  }
+                  #salertWrapper .popup-item{
+    				padding:10px;
+  			      }
+			      @media (max-width: 767px){ 
+                     #salertWrapper { display: block !important;} 
+                  }
+                   
+    #salertWrapper .popup_template {
+        -webkit-box-shadow: 3px 5px 10px 1px rgba(0, 0, 0, 0.38);
+        box-shadow: 3px 5px 10px 1px rgba(0, 0, 0, 0.38);
+    }</style>
 <link rel="stylesheet" id="woocommerce-layout-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.7.1" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.7.1" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.7.1" type="text/css" media="all">
@@ -86,6 +117,12 @@ img.emoji {
 </script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="salert-main-js-js-extra">
+/* <![CDATA[ */
+var salert_settings = {"ajax_url":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-admin\/admin-ajax.php","salert_popup_position":"bottomRight","salert_popup_start_time":"5","salert_popup_transition":"fadeInUp","salert_popup_range_from":"10","salert_popup_range_to":"20","salert_popup_stay":"10"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/salert//assets/frontend/js/main.js?ver=1.1.9" id="salert-main-js-js"></script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.4.3" id="font-awesome-4-shim-js"></script>
 <link rel="https://api.w.org/" href="https://truongquocduy.github.io/mywordpress/wp-json/">
 <link rel="alternate" type="application/json" href="https://truongquocduy.github.io/mywordpress/wp-json/wp/v2/posts/73">
@@ -603,6 +640,15 @@ img.emoji {
           }(document, 'script', 'facebook-jssdk'));</script>
           <div class="fb-customerchat" attribution="wordpress" attribution_version="2.2" page_id="111283637995712">
         </div>
+                <div id="salertWrapper">
+            <div class="popup_position bottomRight">
+                <div class="popup_box">
+                    <div class="popup_template animated clearfix" id="popup_template" style="display: none;">
+                        <!-- Content will be loaded dynamically through ajax -->
+                    </div>
+                </div>
+            </div>
+        </div>
         	<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
@@ -612,6 +658,14 @@ img.emoji {
 	</script>
 	<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3" type="text/css" media="all">
 <link rel="stylesheet" id="e-animations-css" href="https://truongquocduy.github.io/mywordpress/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.3" type="text/css" media="all">
+<script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.1" id="contact-form-7-js"></script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.7.1" id="jquery-blockui-js"></script>
 <script type="text/javascript" id="wc-add-to-cart-js-extra">
 /* <![CDATA[ */
@@ -647,7 +701,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/myproject\/wordpress\/?w
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.7.1" id="wc-add-to-cart-variation-js"></script>
 <script type="text/javascript" id="woo-variation-swatches-js-extra">
 /* <![CDATA[ */
-var woo_variation_swatches_options = {"is_product_page":"","show_variation_label":"1","variation_label_separator":":","wvs_nonce":"14356c3686"};
+var woo_variation_swatches_options = {"is_product_page":"","show_variation_label":"1","variation_label_separator":":","wvs_nonce":"220bedfff8"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1.1.19" id="woo-variation-swatches-js"></script>
@@ -657,7 +711,7 @@ var woo_variation_swatches_options = {"is_product_page":"","show_variation_label
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.3" id="elementor-webpack-runtime-js"></script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.3" id="elementor-frontend-modules-js"></script>
 <script type="text/javascript" id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nonce":"28c7b11b39","urls":{"assets":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-admin\/admin-ajax.php","nonce":"47a425d88c","urls":{"assets":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
 "menu_cart":{"cart_page_url":"https:\/\/truongquocduy.github.io\/mywordpress\/cart\/","checkout_page_url":"https:\/\/truongquocduy.github.io\/mywordpress\/checkout\/"},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/truongquocduy.github.io\/mywordpress\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script type="text/javascript" src="https://truongquocduy.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1" id="elementor-pro-frontend-js"></script>
